@@ -1,4 +1,4 @@
-# HydraFusion Bot - Terms of Service
+# <img src="assets/fingerprint(3).png" width="25"> HydraFusion Bot - Terms of Service
 
 **Effective Date:** 11/17/2024  
 **Last Updated:** 11/17/2024
