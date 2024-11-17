@@ -1,5 +1,5 @@
 # HydraFusion Privacy Policy
-## HydraFusion overview
+## HydraFusion Overview
 
 HydraFusion is a moderation bot for Discord that allows server staff to carry out moderator actions pertaining to identifying, and actioning user alternate accounts (mute, kick, ban, view user information, etc.). HydraFusion keeps records of alternate accounts, performs automated actions on punishment evading accounts, posts detailed logs in logging channels, and sets up systems such as cases and evidence tracking for alternate accounts. The bot also includes a web dashboard that server administrators can log in to through Discord OAuth.
 
@@ -7,7 +7,7 @@ The bot's source code is available at https://github.com/evanmcclan/HydraFusion.
 
 _You must request access from the owner as this repository is private_
 
-## Stored data
+## Stored Data
 
 When HydraFusion is used by a server, the following categories data can be stored by the bot. The specific categories of data saved for each server depends on how the server has configured HydraFusion.
 
@@ -23,7 +23,7 @@ Additionally, when a user logs in to the web dashboard the following types of da
 - Basic Discord user information
 - Time and originating IP address of the login for security audit purposes 
 
-## Data retention
+## Data Retention
 Unless otherwise specified, Data retention is indefinite until manually deleted by the server staff.
 On Account Joining the Server:
 
@@ -48,6 +48,6 @@ After an Account Leads the Server:
 
 - All data is retained until the case is deleted
 
-## Data access and deletion requests
+## Data Access and Deletion Requests
 
 To request access to personal data stored about you, or to request its deletion, to the extent permitted by GDPR, please send an email to evanmcclan@gmail.com 
