@@ -1,4 +1,4 @@
-# HydraFusion Privacy Policy
+# <img src="assets/fingerprint(4).png" width="25"> HydraFusion Privacy Policy
 ## HydraFusion Overview
 
 HydraFusion is a moderation bot for Discord that allows server staff to carry out moderator actions pertaining to identifying, and actioning user alternate accounts (mute, kick, ban, view user information, etc.). HydraFusion keeps records of alternate accounts, performs automated actions on punishment evading accounts, posts detailed logs in logging channels, and sets up systems such as cases and evidence tracking for alternate accounts. The bot also includes a web dashboard that server administrators can log in to through Discord OAuth.
